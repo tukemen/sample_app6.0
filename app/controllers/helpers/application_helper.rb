@@ -1,2 +1,2 @@
-module ApplicationHelper
+module Helpers::ApplicationHelper
 end
