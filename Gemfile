@@ -16,6 +16,9 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'dotenv-rails'
+gem 'active_storage_validations'
+gem 'image_processing'
+gem 'mini_magick'
 
 
 
